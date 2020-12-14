@@ -1,1 +1,3 @@
 # POSIX_TP
+
+The objective of this practical work is to learn real-time development under UNIX / LINUX type operating systems through the standard POSIX programming interface (Portable Operating System Interface for UNIX) defined since 1988 by IEEE on proposal by Mr. Richard Mathew Stallman. The standard mainly features a rich pthreads library which facilitates competitive / multitasking programming as well as related aspects such as communication and synchronization. Examples will be used to illustrate the different mechanisms presented, as well as extensions to be made to further deepen the knowledge acquired.
